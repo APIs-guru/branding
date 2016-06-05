@@ -25,7 +25,7 @@ If you want to write article or blog post, please use our banner image:
 Please add **"How can I request/add/fix an API?"** section into customer documentation or FAQ.
 <BR>**TBD**: Create sample text.
 
-[Logo]: https://apis-guru.github.io/branding/logo.svg "Logo"
-[Vertical logo]: https://apis-guru.github.io/branding/logo_vertical.svg "Vertical logo"
-[Horizontal logo]: https://apis-guru.github.io/branding/logo_horizontal.svg "Horizontal logo"
-[Banner]: https://apis-guru.github.io/branding/banner.svg
+[Logo]: https://apis.guru/branding/logo.svg "Logo"
+[Vertical logo]: https://apis.guru/branding/logo_vertical.svg "Vertical logo"
+[Horizontal logo]: https://apis.guru/branding/logo_horizontal.svg "Horizontal logo"
+[Banner]: https://apis.guru/branding/banner.svg
